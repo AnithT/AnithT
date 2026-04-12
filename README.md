@@ -1,4 +1,4 @@
-# Hi, I'm Anith Thankachen 👋
+# Hi, I'm Anith 👋
 
 **Full Stack Software Developer** with 10+ years of experience building complex web applications and integration services across the entire stack — from pixel-perfect front ends to robust, scalable back ends.
 
