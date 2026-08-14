@@ -21,6 +21,7 @@ I'm currently based in the UK, leading Glantech Solution Ltd, my own software de
 **Cloud & DevOps** · Microsoft Azure (Functions, Service Bus, Cosmos DB, Blob Storage) · Docker · GitHub Actions · Azure DevOps (CI/CD)
 
 **Architecture** · Microservices · Event-Driven Architecture · Multi-Tenant SaaS · Containerised Solutions
+
 ---
 
 ### 💼 What I Bring
